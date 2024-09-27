@@ -30,7 +30,7 @@ The Age Prediction System is a real-time application that estimates a person's a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/age-prediction-system.git
+   git clone https://github.com/rronak818/Age_Prediction.git
    cd age-prediction-system
 2. **Install Dependencies**:
    - Create a virtual environment (optional but recommended) and activate it:
